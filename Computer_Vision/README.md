@@ -1,7 +1,3 @@
-# Deeplearning-practice
-
-다양한 모델들을 구현하고, 과제를 수행해보았습니다.
-
 ## Computer_Vision
 
 1. `Semantic segmentation`
@@ -17,12 +13,3 @@
 3. `OCR`
    * Captchas image reading OCR model
    * Handwriting OCR model
-
-## Generative_Deep_learning
-
-* Convolutional autoencoder for image denoising (CAE)
-* Variational AutoEncoder- Display latent space clusters
-* Handwriting_Korean_GAN
-* Image_creation_using_BEGAN
-* Deep Dream
-* Neural_StyleTransfer
