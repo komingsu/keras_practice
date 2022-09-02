@@ -10,7 +10,7 @@
 
 2. `Classification`
    * [3D image classification from CT scan](https://github.com/komingsu/Deeplearning_practice/blob/main/Computer_Vision/3D%20image%20classification%20from%20CT%20scans.ipynb)
-   * [Image classification with Vision Transformer (ViT)](https://github.com/komingsu/Deeplearning_practice/tree/main/Computer_Vision)
+   * [Image classification with Vision Transformer (ViT)](https://github.com/komingsu/Deeplearning_practice/blob/main/Computer_Vision/Image%20classification%20with%20Vision%20Transformer%20(ViT).ipynb)
    * [Vision Transformer for Small-Size Datasets(Shift Patch Tokenization)](https://github.com/komingsu/Deeplearning_practice/blob/main/Computer_Vision/Vision%20Transformer%20for%20Small-Size%20Datasets(Shifted%20Patch%20Tokenization).ipynb)
    * [Compact Convolutional Transformers (CCT)](https://github.com/komingsu/Deeplearning_practice/blob/main/Computer_Vision/Compact%20Convolutional%20Transformers.ipynb)
    * [Classification using Attention-based-DeepMIL](https://github.com/komingsu/Deeplearning_practice/blob/main/Computer_Vision/Classification%20using%20Attention-based%20DeepMIL.ipynb)
